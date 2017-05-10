@@ -15,6 +15,10 @@ class MainSpec extends BaseFeatureSpec {
       Then("This will occur")
     }
 
+    scenario("Some scenario,  probable merge conflict") {
+
+    }
+
 
     scenario("Testing a specific portion of the area") {
       Given("Some Precondition")
