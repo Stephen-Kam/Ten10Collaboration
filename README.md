@@ -20,7 +20,7 @@ See what remote locations are stored
 
 <br/>
 
->git remote add <remote> <url>
+>git remote add <remote\> <url\>
 
 Add a new remote location
 
@@ -80,7 +80,7 @@ Creates a new local branch and switches to it
 
 <br/>
 
->git checkout <branch name>
+>git checkout <branch name\>
 
 Switches to specified branch
 
