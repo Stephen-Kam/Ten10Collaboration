@@ -1,11 +1,10 @@
-# Ten10Collaboration
+g# Ten10Collaboration
 
 A simple project to help the new Ten10 Test Engineers practice collaboration with Git.
 
 Unless you're the only one working on a project, do not push to master, work off a branch and then get your code reviewed and merged.
 
-
-<h2>Some helpful Git Commands</h2>
+git <h2>Some helpful Git Commands</h2>
 
 
 >git status
