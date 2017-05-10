@@ -20,7 +20,7 @@ class MainSpec extends BaseFeatureSpec {
     }
 
 
-    scenario("Testing a specific portion of the meow") {
+    scenario("Testing a specific portion of the area-hi") {
       Given("Some Precondition")
 
       When("I do something")
