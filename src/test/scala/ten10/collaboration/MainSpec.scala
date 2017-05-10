@@ -14,6 +14,17 @@ class MainSpec extends BaseFeatureSpec {
 
       Then("This will occur")
     }
+
+
+    scenario("Testing a specific portion of the area") {
+      Given("Some Precondition")
+
+      When("I do something")
+
+      And("I do this thing")
+
+      Then("This will occur")
+    }
   }
 
 }
